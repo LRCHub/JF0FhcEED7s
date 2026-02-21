@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ランニングアウト",
+  "base_artist": "yama",
+  "createdAt": "2026-02-21T12:54:41.514768Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ランニングアウト",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_ランニングアウト_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "yama『ランニングアウト』MV",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/02_yama『ランニングアウト』MV_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ランニングアウト",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_ランニングアウト_yama.txt"
+    }
+  ]
+}
